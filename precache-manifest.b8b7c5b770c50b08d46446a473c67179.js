@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47b78c0e5c0fd8ece439",
+    "revision": "1273be937c29a92e704f",
     "url": "/css/app.02ffe6c8.css"
   },
   {
@@ -108,10 +108,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/Grouppp.cbddf182.png"
   },
   {
-    "revision": "b18aa77de3e87d4656db31faae42d5dc",
-    "url": "/img/IT.b18aa77d.png"
-  },
-  {
     "revision": "a265a60926004e60be9e81a516940480",
     "url": "/img/Rectangle1221.a265a609.png"
   },
@@ -122,6 +118,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a1aded3bff757f24937d9978622ca968",
     "url": "/img/book.a1aded3b.svg"
+  },
+  {
+    "revision": "c5e51e1e9a746f90c4812a3fbf503042",
+    "url": "/img/boy.c5e51e1e.png"
   },
   {
     "revision": "5716c8d4ac2e9f0196ed24efb1db928f",
@@ -168,12 +168,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/sevara.d68e46d4.png"
   },
   {
-    "revision": "0a1423fd2b9511cb1b2791a8d3eb0f4d",
+    "revision": "c6a20d7c6d57b4200297f0a6da9e97eb",
     "url": "/index.html"
   },
   {
-    "revision": "47b78c0e5c0fd8ece439",
-    "url": "/js/app.a2dd4a2c.js"
+    "revision": "1273be937c29a92e704f",
+    "url": "/js/app.5f567fcf.js"
   },
   {
     "revision": "2bf0894741b59709ee58",
