@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7b280f60943d5bc2a13",
-    "url": "/css/app.0b100756.css"
+    "revision": "95ab0c3c18953e52a6cb",
+    "url": "/css/app.02ffe6c8.css"
   },
   {
     "revision": "c3d291dbe5c3fd0c3026",
@@ -156,6 +156,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/nazarova.64c704eb.png"
   },
   {
+    "revision": "7b160a7af9bbbe52f9f163be5c3ad19b",
+    "url": "/img/news.7b160a7a.jpeg"
+  },
+  {
     "revision": "ff9f0bef7d5560cd53f986ee965d7042",
     "url": "/img/qiz.ff9f0bef.png"
   },
@@ -164,12 +168,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/sevara.d68e46d4.png"
   },
   {
-    "revision": "85512c0141312b04fe8522cbc9528d14",
+    "revision": "2aea496da5dd287d407f560205ef4aea",
     "url": "/index.html"
   },
   {
-    "revision": "b7b280f60943d5bc2a13",
-    "url": "/js/app.fa01b3cd.js"
+    "revision": "95ab0c3c18953e52a6cb",
+    "url": "/js/app.66425ecc.js"
   },
   {
     "revision": "2bf0894741b59709ee58",
@@ -314,6 +318,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "79f119e13b9c4db2d93b",
     "url": "/js/chunk-d997a5c0.a004e9cc.js"
+  },
+  {
+    "revision": "fd281727d2106afdbbbe",
+    "url": "/js/chunk-df2a5232.fc8b18f1.js"
   },
   {
     "revision": "a5ec2eb9209fa89cf08b",
