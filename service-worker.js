@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ff36449a4dd094b1b70a5896f721addd.js"
+  "/precache-manifest.687b11be30f7adef10c906f39d57ac7a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "edu"});
