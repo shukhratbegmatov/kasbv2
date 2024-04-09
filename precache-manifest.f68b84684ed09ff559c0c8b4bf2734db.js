@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "19759f0fd33d9fd7dc4c",
+    "revision": "05bb0c75de77d96e0574",
     "url": "/css/app.2a645ec7.css"
   },
   {
@@ -212,12 +212,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/sevara.d68e46d4.png"
   },
   {
-    "revision": "bd677e479e678ec0b59aa58124dc87f1",
+    "revision": "7f258632fe3510bbb2da4e266bc12724",
     "url": "/index.html"
   },
   {
-    "revision": "19759f0fd33d9fd7dc4c",
-    "url": "/js/app.09ae328a.js"
+    "revision": "05bb0c75de77d96e0574",
+    "url": "/js/app.7212e8f2.js"
   },
   {
     "revision": "78c736c989b54a23ace7",
@@ -280,8 +280,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-2d0e4b0a.6f2f3146.js"
   },
   {
-    "revision": "1125bc3dfae09730eb2f",
-    "url": "/js/chunk-2d0e60e6.00747e7f.js"
+    "revision": "a9afca17907f1c003046",
+    "url": "/js/chunk-2d0e60e6.da766279.js"
   },
   {
     "revision": "22b630d415b998629215",
