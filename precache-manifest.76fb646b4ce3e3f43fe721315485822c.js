@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba61ca93425fec8138f2",
+    "revision": "2c3e7a0b41158903bbf7",
     "url": "/css/app.2a645ec7.css"
   },
   {
@@ -212,12 +212,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/sevara.d68e46d4.png"
   },
   {
-    "revision": "6a3292be467b4bf9ec6e2bce5506e85b",
+    "revision": "4616c9955b87bb115a48a7493223caa7",
     "url": "/index.html"
   },
   {
-    "revision": "ba61ca93425fec8138f2",
-    "url": "/js/app.59842986.js"
+    "revision": "2c3e7a0b41158903bbf7",
+    "url": "/js/app.12e8eaf6.js"
   },
   {
     "revision": "f8af30fca5a6b67c39bc",
@@ -252,8 +252,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-2d0b1ac0.1ed38011.js"
   },
   {
-    "revision": "e03bb247cb36d4a3eb5f",
-    "url": "/js/chunk-2d0ba12b.73968c24.js"
+    "revision": "51a651e99234fa2b6a3c",
+    "url": "/js/chunk-2d0ba12b.0a6117ea.js"
   },
   {
     "revision": "8556970c5d26e7297f51",
@@ -276,8 +276,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-2d0d0046.6de5273f.js"
   },
   {
-    "revision": "1a6ea14ae0e83538a004",
-    "url": "/js/chunk-2d0df249.ad47f337.js"
+    "revision": "7304e1fe2ea5b0108a8b",
+    "url": "/js/chunk-2d0df249.c0e70088.js"
   },
   {
     "revision": "d40534bcb55d306dc1fc",
@@ -348,16 +348,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/chunk-2d229640.60457371.js"
   },
   {
-    "revision": "6e7ef53a96ff0754c30d",
-    "url": "/js/chunk-2d22cfca.d8b8384b.js"
+    "revision": "b9c9966ac7a435c503ad",
+    "url": "/js/chunk-2d22cfca.e0c47e58.js"
   },
   {
     "revision": "1dc67f3f6f8a67db2f35",
     "url": "/js/chunk-2e735eac.bfa3d747.js"
   },
   {
-    "revision": "21d6fa53b6abb4c7cb7b",
-    "url": "/js/chunk-307ace34.a58ca6d5.js"
+    "revision": "b04f72cf94e6c3687d5a",
+    "url": "/js/chunk-307ace34.9d0507aa.js"
   },
   {
     "revision": "63321fafc6c8f0d7211b",
