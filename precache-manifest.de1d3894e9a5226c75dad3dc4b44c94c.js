@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20b6f826906fd19365b5",
+    "revision": "3fc0539586a616845253",
     "url": "/css/app.5e51381b.css"
   },
   {
@@ -216,16 +216,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/sevara.d68e46d4.png"
   },
   {
-    "revision": "788dd7ea3b705a8307d2e6fa8c20923c",
+    "revision": "aac51b1c2e1f969e12ac711fead433b5",
     "url": "/index.html"
   },
   {
-    "revision": "20b6f826906fd19365b5",
-    "url": "/js/app.3a65e91d.js"
+    "revision": "3fc0539586a616845253",
+    "url": "/js/app.67b93c32.js"
   },
   {
-    "revision": "61c62fa4c620088ddcdf",
-    "url": "/js/chunk-0f9ea4f6.164ac54a.js"
+    "revision": "0d36d2be6a52bee2f45f",
+    "url": "/js/chunk-0f9ea4f6.cafffc57.js"
   },
   {
     "revision": "e83e9cc63b9e2e6dc189",
